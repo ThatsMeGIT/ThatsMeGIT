@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hallo, ich bin ThatsMeGIT.
 
-<!--
-**ThatsMeGIT/ThatsMeGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ich bin angehender Entwickler mit Interesse an Softwareentwicklung und Open Source
+🚀 Ich arbeite gerne an kleinen Projekten, um mein Wissen praktisch zu vertiefen.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Tech Stack
+- Programmiersprachen: Java, C (lernend), Rust (lernend), HTML, CSS, Jscript
+- Tools: Git, GitHub, VS Code, JetBrains, Docker, React
+- Interessen: Backend, Automatisierung, Open Source
+
+---
+<!-- 
+📌 Projekte:
+- Projektname 1: 
+- Projektname 2: kurze Beschreibung  
+
+👉 Mehr dazu in meinen Repositories 👇
+
+---
+
+## 📫 Kontakt
+- GitHub: https://github.com/ThatsMeGIT
+- (optional) LinkedIn/E-Mail/Website
+
+---
 -->
+⭐ Danke fürs Vorbeischauen!
