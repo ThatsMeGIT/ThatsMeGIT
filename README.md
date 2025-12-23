@@ -7,7 +7,7 @@
 
 🛠️ Tech Stack
 - Programmiersprachen: Java, C (lernend), Rust (lernend), HTML, CSS, Jscript
-- Tools: Git, GitHub, VS Code, JetBrains, Docker, React
+- Tools: Git, GitHub, VS Code, JetBrains IDE, Docker, React
 - Interessen: Backend, Automatisierung, Open Source
 
 ---
