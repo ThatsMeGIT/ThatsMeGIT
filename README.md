@@ -10,20 +10,29 @@
 - Tools: Git, GitHub, VS Code, JetBrains IDE, Docker, React
 - Interessen: Backend, Automatisierung, Open Source
 
----
-<!-- 
-📌 Projekte:
-- Projektname 1: 
-- Projektname 2: kurze Beschreibung  
+--- 
 
-👉 Mehr dazu in meinen Repositories 👇
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThatsMeGIT&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 
-## 📫 Kontakt
-- GitHub: https://github.com/ThatsMeGIT
-- (optional) LinkedIn/E-Mail/Website
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatsMeGIT&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
--->
+
+### 🏆 Trophies & Streaks
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThatsMeGIT&theme=tokyonight&no-frame=true&row=2&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThatsMeGIT&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 ⭐ Danke fürs Vorbeischauen!
