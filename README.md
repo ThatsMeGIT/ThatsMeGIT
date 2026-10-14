@@ -6,7 +6,7 @@
 ---
 
 🛠️ Tech Stack
-- Programmiersprachen: Java, Dart (Flutter), HTML, CSS, Jscript
+- Programmiersprachen: Java, Dart (Flutter), HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code, JetBrains IDE, Docker, React
 - Interessen: Backend, Automatisierung, Open Source
 
